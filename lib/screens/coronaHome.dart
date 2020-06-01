@@ -33,6 +33,7 @@ class _CoronaHomeState extends State<CoronaHome> {
     return Scaffold(
       backgroundColor: style.Colors.mainColor,
       appBar: AppBar(
+        elevation: 0,
         centerTitle: true,
         title: Row(
           mainAxisAlignment: MainAxisAlignment.center,
