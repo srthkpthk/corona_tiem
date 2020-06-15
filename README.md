@@ -1,16 +1,16 @@
-# coronatiem
+# CoronaTiem [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/techysrthk%40gmail.com) [![License](https://img.shields.io/badge/license-MIT-orange.svg)](https://github.com/srthkpthk/corona_tiem/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/srthkpthk/corona_tiem)
 
-A new Flutter application.
+CoronaTiem is an App for Tracking Corona Virus Cases in India and According to States.The data is provided by https://www.covid19india.org
 
-## Getting Started
+  - Uses Bloc 
+  - Uses Dio  
 
-This project is a starting point for a Flutter application.
+ #### Feel Free to make a PR or Issue
+ 
+ 
+ #### Star the Repo if you find it useful 
 
-A few resources to get you started if this is your first Flutter project:
+ <img src="ss.jpg" width="200" height="400">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+ ##### Peace Out
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
