@@ -1,4 +1,4 @@
-# CoronaTiem [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/techysrthk%40gmail.com) [![License](https://img.shields.io/badge/license-MIT-orange.svg)](https://github.com/srthkpthk/corona_tiem/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/srthkpthk/corona_tiem)
+# CoronaTiem [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/techysrthk%40gmail.com) [![License](https://img.shields.io/badge/license-MIT-orange.svg)](https://github.com/srthkpthk/corona_tiem/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/srthkpthk/corona_tiem) ![Flutter Web](https://github.com/srthkpthk/corona_tiem/workflows/Flutter%20Web/badge.svg?branch=master)
 
 CoronaTiem is an App for Tracking Corona Virus Cases in India and According to States.The data is provided by https://www.covid19india.org
 
