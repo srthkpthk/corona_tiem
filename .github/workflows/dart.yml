@@ -31,4 +31,4 @@ jobs:
           git checkout -b flutter-web
           git add --all
           git commit -m "update"
-          git push origin gh-pages -f
+          git push origin flutter-web -f
