@@ -10,8 +10,7 @@ CoronaTiem is an App for Tracking Corona Virus Cases in India and According to S
  
  #### Star the Repo if you find it useful 
 
- <img src="ss.jpg" width="200" height="400"> 
- <img src="ss-district.jpg" width="200" height="400">
+ <img src="ss.jpg" width="200" height="400"> <img src="ss-district.jpg" width="200" height="400">
 
  ##### Peace Out
 
