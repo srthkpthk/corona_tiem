@@ -46,7 +46,7 @@ class _CoronaHomeState extends State<CoronaHome> {
                   color: Colors.white),
             ),
             Text(
-              'Time',
+              'Tiem',
               style: TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize: 30,
